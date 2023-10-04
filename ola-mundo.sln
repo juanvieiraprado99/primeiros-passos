@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-OlaMundo", "ola-mundo\1-OlaMundo.csproj", "{0D1C91A2-6FFA-4CDD-9351-917787C571C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "ola-mundo\1-OlaMundo.csproj", "{0D1C91A2-6FFA-4CDD-9351-917787C571C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{6EE40B1D-35F2-44D8-AAF7-D65C0373476C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{6EE40B1D-35F2-44D8-AAF7-D65C0373476C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{792BF977-0C73-4008-90A4-6CD986FA9D84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{792BF977-0C73-4008-90A4-6CD986FA9D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{1A2A4641-FC15-4ECE-A540-E8B699B3483C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{1A2A4641-FC15-4ECE-A540-E8B699B3483C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{5F2F3267-6EAA-4A31-8687-660F8A16F871}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1A2A4641-FC15-4ECE-A540-E8B699B3483C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A2A4641-FC15-4ECE-A540-E8B699B3483C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A2A4641-FC15-4ECE-A540-E8B699B3483C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2F3267-6EAA-4A31-8687-660F8A16F871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2F3267-6EAA-4A31-8687-660F8A16F871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2F3267-6EAA-4A31-8687-660F8A16F871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2F3267-6EAA-4A31-8687-660F8A16F871}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
